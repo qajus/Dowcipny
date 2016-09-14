@@ -1,31 +1,34 @@
 <?xml version="1.0"?>
-<DOWCIPY> 
-    		<DOWCIP>
-			Mówi żona do męża informatyka:
-			- Poznajesz człowieka na fotografii?
-			- Tak.
-			- OK, więc dzisiaj o 16.00 odbierzesz go z przedszkola
-			Mówi żona do męża informatyka:
-			- Poznajesz człowieka na fotografii?
-			- Tak.
-			- OK, więc dzisiaj o 16.00 odbierzesz go z przedszkola
-			</DOWCIP>
-		<DOWCIP>
-			Do programisty wpadł znajomy informatyk. Ale nie da się spokojnie poserfować, bo dzieci gospodarza biją się, wrzeszcząc przy tym niemiłosiernie. W końcu znajomy nie wytrzymuje i pyta:
-			- Słuchaj, nie mógłbyś jakoś ich uspokoić?
-			A programista nie odrywając wzroku od ekranu:
-			- Nie da się. Konflikt wersji.</DOWCIP>
- 		</DOWCIP>
-		<DOWCIP>
-			Co mówi Japończyk gdy wypije jakąś dobrą kawę? 
-			- Kopamatakawa.
-		</DOWCIP>
-		<DOWCIP>
-			Przychodzi Rusek do dentysty.
-			Dentysta ogląda i widzi same złote zęby, diamentowe koronki, w końcu nie wytrzymał:
-			- Właściwie nie wiem co mam panu tu zrobić?
-			- Chciałbym alarm założyć.
-		</DOWCIP>
+<DOWCIPY>
+  <DOWCIP>
+    Mówi żona do męża informatyka:
+    - Poznajesz człowieka na fotografii?
+    - Tak.
+    - OK, więc dzisiaj o 16.00 odbierzesz go z przedszkola
+    Mówi żona do męża informatyka:
+    - Poznajesz człowieka na fotografii?
+    - Tak.
+    - OK, więc dzisiaj o 16.00 odbierzesz go z przedszkola
+  </DOWCIP>
+  <DOWCIP>
+    Do programisty wpadł znajomy informatyk. Ale nie da się spokojnie poserfować, bo dzieci gospodarza biją się, wrzeszcząc przy tym niemiłosiernie. W końcu znajomy nie wytrzymuje i pyta:
+    - Słuchaj, nie mógłbyś jakoś ich uspokoić?
+    A programista nie odrywając wzroku od ekranu:
+    - Nie da się. Konflikt wersji.
+  </DOWCIP>
+  <DOWCIP>
+    Co mówi Japończyk gdy wypije jakąś dobrą kawę?
+    - Kopamatakawa.
+  </DOWCIP>
+  <DOWCIP>
+    Przychodzi Rusek do dentysty.
+    Dentysta ogląda i widzi same złote zęby, diamentowe koronki, w końcu nie wytrzymał:
+    - Właściwie nie wiem co mam panu tu zrobić?
+    - Chciałbym alarm założyć.
+  </DOWCIP>
+  <DOWCIP>
+Jakis nowy dowcip
+  </DOWCIP>
 
 
 </DOWCIPY>
